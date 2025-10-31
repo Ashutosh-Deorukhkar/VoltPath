@@ -99,7 +99,7 @@ python3 backend/fetch_data.py
   - I already put my api key in for you to use, but if you want you can register your own.
 
 
-## New Changes 4/19
+## New Changes
 1. Install Dependencies
 ```bash
 # Install dependencies
